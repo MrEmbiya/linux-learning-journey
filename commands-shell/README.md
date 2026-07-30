@@ -9,7 +9,7 @@ This module covers fundamental terminal navigation, help documentation utilities
 - [x] **Help Commands** (`man`, `help`, `--help`, `whatis`, `info`)
 - [x] **System Information Commands** (`uname`, `hostname`, `uptime`, `whoami`)
 - [x] **Content Viewing Commands** (`cat`, `head`, `tail`, `less`, `more`)
-- [ ] **File & Directory Commands** (`mkdir`, `rm`, `cp`, `mv`, `touch`)
+- [x] **File & Directory Commands** (`mkdir`, `rm`, `cp`, `mv`, `touch`)
 - [ ] **Archiving Commands** (`tar`, `gzip`, `zip`, `unzip`)
 - [ ] **Command Operators** (`&&`, `||`, `;`, `|`, `>`, `>>`)
 
