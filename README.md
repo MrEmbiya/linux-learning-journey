@@ -17,9 +17,9 @@ Instead of getting bogged down in theoretical overload, this journey focuses on 
 ## 📚 Curriculum & Roadmap
 
 - [x] **Commands & Shell Basics**
-- [ ] **Shell Interpreters & Management**
-- [ ] **User & Group Management**
-- [ ] **SUDO Management**
+- [x] **Shell Interpreters & Management**
+- [x] **User & Group Management**
+- [x] **SUDO Management**
 - [ ] **Object Permissions & Access Control**
 - [ ] **Package, Repository & Update Management**
 - [ ] **Installation & Execution Control**
