@@ -24,7 +24,7 @@ Instead of getting bogged down in theoretical overload, this journey focuses on 
 - [ ] **02-system-administration**
   - [x] User & Group Management
   - [x] SUDO Management
-  - [ ] Object Permissions & Access Control (`chmod`, `chown`, `umask`)
+  - [x] Object Permissions & Access Control (`chmod`, `chown`, `umask`)
   - [ ] Symlink & Hardlink Management (`ln`, `inodes`)
 
 - [ ] **03-package-and-process**
