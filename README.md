@@ -21,25 +21,25 @@ Instead of getting bogged down in theoretical overload, this journey focuses on 
   - [x] Shell Interpreters & Management
   - [x] Customization & Environment Settings (`.bashrc`, `alias`, `export`)
 
-- [ ] **02-system-administration**
+- [x] **02-system-administration**
   - [x] User & Group Management
   - [x] SUDO Management
   - [x] Object Permissions & Access Control (`chmod`, `chown`, `umask`)
-  - [ ] Symlink & Hardlink Management (`ln`, `inodes`)
+  - [x] Symlink & Hardlink Management (`ln`, `inodes`)
 
-- [ ] **03-package-and-process**
-  - [ ] Package, Repository & Update Management (`apt`, `dpkg`, `flatpak`)
-  - [ ] Installation & Execution Control
-  - [ ] Process Management (`ps`, `top`, `htop`, `kill`)
-  - [ ] Runlevels & Services (`systemctl`, `systemd`)
-  - [ ] Task Scheduling & Automation (`cron`, `crontab`)
+- [x] **03-package-and-process**
+  - [x] Package, Repository & Update Management (`apt`, `dpkg`, `flatpak`)
+  - [x] Installation & Execution Control
+  - [x] Process Management (`ps`, `top`, `htop`, `kill`)
+  - [x] Runlevels & Services (`systemctl`, `systemd`)
+  - [x] Task Scheduling & Automation (`cron`, `crontab`)
 
-- [ ] **04-storage-and-disks**
-  - [ ] Disk & File System Management (Partitioning, Formatting, Mounting)
-  - [ ] Logical Volume Management (LVM & `/etc/fstab`)
+- [x] **04-storage-and-disks**
+  - [x] Disk & File System Management (Partitioning, Formatting, Mounting)
+  - [x] Logical Volume Management (LVM & `/etc/fstab`)
 
 - [ ] **05-networking-and-security**
-  - [ ] Network Management & Tools (`ip`, `ss`, `netstat`)
+  - [x] Network Management & Tools (`ip`, `ss`, `netstat`)
   - [ ] Topology Changes & Network Setup (Netplan, Static IP)
   - [ ] SSH Server & Key Management (Hardening & Config)
 
