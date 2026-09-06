@@ -40,13 +40,13 @@ Instead of getting bogged down in theoretical overload, this journey focuses on 
 
 - [ ] **05-networking-and-security**
   - [x] Network Management & Tools (`ip`, `ss`, `netstat`)
-  - [ ] Topology Changes & Network Setup (Netplan, Static IP)
+  - [x] Topology Changes & Network Setup (Netplan, Static IP)
   - [ ] SSH Server & Key Management (Hardening & Config)
 
 - [ ] **06-server-infrastructure-and-labs**
-  - [ ] Multi-Distro Server Administration (Fedora, Ubuntu & CentOS)
-  - [ ] Headless Server Management
-  - [ ] DHCP Server & Management
+  - [x] Multi-Distro Server Administration (Fedora, Ubuntu & CentOS)
+  - [x] Headless Server Management
+  - [x] DHCP Server & Management
   - [ ] DNS Server & Management
   - [ ] Web Server Administration (Nginx / Apache)
   - [ ] Domain Controller (DC) Server Management
